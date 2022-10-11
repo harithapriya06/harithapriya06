@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**harithapriya06/harithapriya06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
@@ -158,4 +152,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: .....
 
 -->
-
